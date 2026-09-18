@@ -43,8 +43,6 @@ Arduino es una plataforma de hardware y software de código abierto que se utili
 
 * **Pin AREF (Referencia Analógica):** Permite fijar un límite de tensión superior personalizado (menor a 5V) como referencia máxima para las lecturas de los pines analógicos.
 
-![alt text](image-1.png)
-
 # Cuadro comparativo
 ## Cuadro Comparativo: Señales Digitales, Analógicas y PWM
 
@@ -57,3 +55,6 @@ Arduino es una plataforma de hardware y software de código abierto que se utili
 | **Pines en Arduino UNO** | Cualquier pin digital (ej. 0 al 13)[cite: 1] | Pines de entrada analógica `A0` a `A5`[cite: 1] | Pines digitales con el símbolo `~` (ej. 3, 5, 6, 9, 10, 11)[cite: 1] |
 | **Principio de funcionamiento** | Transición abrupta entre dos niveles de voltaje sin estados intermedios[cite: 1] | Refleja variaciones graduales y continuas de un fenómeno físico[cite: 1] | Conmutación digital rápida que genera un efecto promedio según el porcentaje de ancho de pulso[cite: 1] |
 | **Ejemplos de aplicación** | Pulsador, sensor PIR, relé, LED (encendido/apagado)[cite: 1] | Potenciómetro, LDR (luz), LM35 (temperatura), sensor de humedad[cite: 1] | Control de brillo de LED, velocidad de motores DC, servomotores[cite: 1] |
+
+![alt text](image-1.png)
+
